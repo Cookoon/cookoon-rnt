@@ -14,7 +14,11 @@
   },
   "devDependencies": {
     "babel-jest": "22.1.0",
+    "babel-plugin-module-resolver": "^3.0.0",
     "babel-preset-react-native": "4.0.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "eslint-import-resolver-babel-module": "^4.0.0",
+    "eslint-plugin-import": "^2.8.0",
     "jest": "22.1.4",
     "react-test-renderer": "16.2.0"
   },
