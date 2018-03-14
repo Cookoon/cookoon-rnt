@@ -1,4 +1,4 @@
-package com.cookoonrnt;
+package fr.cookoon.rnt;
 
 import com.facebook.react.ReactActivity;
 
